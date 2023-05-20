@@ -1,0 +1,12 @@
+{
+    "animals": [
+    {"id": 1, "name": "Nina", "type":"Dog", "age": 4},
+    {"id": 2, "name":"Mario", "type":"Cat", "age": 3},
+    {"id": 3, "name":"Cacau", "type":"Dog", "age": 2},
+    {"id": 4, "name":"Neon", "type":"Cat", "age": 10},
+    {"id": 5, "name":"Luna", "type":"Dog", "age": 2},
+    {"id": 6, "name":"Lyon", "type":"Cat", "age": 9},
+    {"id": 7, "name":"Duke", "type":"Dog", "age": 3},
+    {"id": 8, "name":"Amora", "type":"Dog", "age": 0}
+    ]
+}
